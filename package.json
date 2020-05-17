@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/k-pozhidaev/cvtools/issues"
   },
-  "homepage": "https://github.com/k-pozhidaev/cvtools#readme"
+  "homepage": "https://github.com/k-pozhidaev/cvtools#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
